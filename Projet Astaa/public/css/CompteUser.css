@@ -1,0 +1,161 @@
+*{
+    margin: 0;
+    padding: 0;
+    color:white;
+    text-align: center;
+
+}
+
+.blog{
+    width: 700px;
+    margin: auto;
+    height: 600px;
+    border:1px solid black;
+}
+#banniere
+{
+    width:100%;
+    height:60px;
+    float:left;
+    border:1px solid black;
+    background-color: #042425;
+}
+.logo
+{
+    float:left;
+    width:5%;
+    height:70px;
+}
+.logo img
+{
+    width:100%;
+    height:100%;
+    margin-top: -2px;
+}
+p{
+    text-align: center;
+    color:white;
+    padding:10px;
+}
+#milieu
+{
+    width:100%;
+    height:600px;
+    background-image: url(img/img-bg.jpg);
+    border:1px solid black;
+}
+#milieu img
+{
+    width:100%;
+    height:100%;
+}
+#conteneur
+{
+    background-color: hsla(0, 20%, 98%, 0.972);
+    margin-left:5%;
+    margin-right:5%;
+    margin-top:10%;
+    height:510px;
+}
+#log{
+   background-color: #51bfd0; 
+   height: 50px;
+   width:100%;
+   
+}
+p{
+text-align: center;
+color:white;
+padding: 10px 0px 0px 10px;
+}
+#btn3
+{
+    float:right;
+    color: white;
+    background-color: #3addd6;
+    height: 25px;
+    width: 90px;
+    padding-top:2px 3px;
+    margin:-12px 5px;
+}
+#blog1
+{
+    width:95%;
+    height:420px;
+    margin-left:5px;
+    margin-right:5px;
+}
+#forml{
+    margin-top:10px;
+    width:97%;
+    height:420px;
+    margin-left:20px;
+    border-radius: 5px solid white;
+    background-color: white;
+}
+#avatar{
+    padding-top: 10px;
+	width: 30%;
+    height: 35%;
+    float:right;
+}
+input
+{
+    font-size: 15px;
+    border-radius: 5px;
+    text-align: left;
+    padding:7px;
+    color:rgb(168, 165, 165);
+    float:left;
+    width:90%;
+}
+label{
+    float:left;
+    color:silver;
+    padding:5px;
+}
+#btn1
+{
+    color: white;
+    background-color: #51bfd0;
+    height: 30px;
+    width: 110px;
+    font-size: 12px;
+    font-weight: bold;
+    margin-top:5px;
+    float:right;
+    border-radius: 5px;
+}
+#btn2
+{
+    color: white;
+    background-color: #51bfd0;
+    height: 30px;
+    width: 110px;
+    font-size: 12px;
+    font-weight: bold;
+    margin-top: 15px;
+    margin-left:150px;
+    border-radius: 5px;
+}
+h4
+{
+    float: left;
+    color:silver;
+    padding:10px;
+}
+h5
+{
+    padding:5px 0px 0px 0px;
+    color:silver;
+    float:left;
+}
+h6
+{
+    color:silver;
+    float:left;
+}
+h3{
+    color:rgb(92, 85, 85);
+    padding:3px;
+}

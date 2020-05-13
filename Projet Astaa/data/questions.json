@@ -1,0 +1,145 @@
+[
+    {
+        "question": "Les Departements de Dakar sont ?",
+        "nbre_point": "10",
+        "choix": "multiple",
+        "RepTrouve": 0,
+        "Reponse": {
+            "Dakar": "true",
+            "Guediawaye": "true",
+            "Mbour": "false",
+            "Pikine": "true"
+        }
+    },
+    {
+        "question": "Dans quel pays vient le covid-19 ?",
+        "nbre_point": "5",
+        "choix": "simple",
+        "RepTrouve": 0,
+        "Reponse": {
+            "Italie": "false",
+            "Chine": "true"
+        }
+    },
+    {
+        "question": "Quel terme definit langage adapte sur Android et sur Ios?",
+        "nbre_point": "5",
+        "choix": "texte",
+        "RepTrouve": 0,
+        "ReponseTexte": "Langage Mobil"
+    },
+    {
+        "question": "Quels sont les langages de programmation ?",
+        "nbre_point": "3",
+        "choix": "multiple",
+        "RepTrouve": 0,
+        "Reponse": {
+            "Php": "true",
+            "JavasScript": "true",
+            "Symphonie": "false"
+        }
+    },
+    {
+        "question": "Ou se situe les Philippines ?",
+        "nbre_point": "3",
+        "choix": "simple",
+        "RepTrouve": 0,
+        "Reponse": {
+            "Afrique": "false",
+            "Asie": "true",
+            "Europe": "false"
+        }
+    },
+    {
+        "question": "A quoi sert le langage CSS ?",
+        "nbre_point": "5",
+        "choix": "texte",
+        "RepTrouve": 0,
+        "ReponseTexte": "Le css sert a ajouter du style aux documents web "
+    },
+    {
+        "question": "quel couleur ne fait pas partie de notre drapeau national ?",
+        "nbre_point": "3",
+        "choix": "simple",
+        "RepTrouve": 0,
+        "Reponse": {
+            "vert": "false",
+            "blue": "true",
+            "jaune": "false"
+        }
+    },
+    {
+        "question": "Les precurseurs de la revolution digitale ?",
+        "nbre_point": "5",
+        "choix": "simple",
+        "RepTrouve": 0,
+        "Reponse": {
+            "GAFAM": "true",
+            "CIA-FBI": "false"
+        }
+    },
+    {
+        "question": "Quels est la premiere ecole de codage au senegal ?",
+        "nbre_point": "5",
+        "choix": "simple",
+        "RepTrouve": 0,
+        "Reponse": {
+            "Simplon": "false",
+            "SA": "true"
+        }
+    },
+    {
+        "question": "Quelles technologies permettent de developper des sites ?",
+        "nbre_point": "10",
+        "choix": "multiple",
+        "RepTrouve": 0,
+        "Reponse": {
+            "Apache": "true",
+            "CSS": "false",
+            "Chrome": "true"
+        }
+    },
+    {
+        "question": "Les langages web ?",
+        "nbre_point": "7",
+        "choix": "multiple",
+        "RepTrouve": 0,
+        "Reponse": {
+            "HTML": "true",
+            "R": "false",
+            "JAVA": "true"
+        }
+    },
+    {
+        "question": "Que signifie php??",
+        "nbre_point": "5",
+        "choix": "texte",
+        "RepTrouve": 0,
+        "ReponseTexte": "HypertextPreprocessor"
+    },
+    {
+        "question": "Que signifie CEDEAO?",
+        "nbre_point": "7",
+        "choix": "texte",
+        "Reponse": "Reponse",
+        "ReponseTexte": "Communaute Economique des Etats de l'Afrique de l'ouest"
+    },
+    {
+        "question": "Combien de departement compte le Senegal?",
+        "nbre_point": "10",
+        "choix": "simple",
+        "Reponse": {
+            "28": "false",
+            "45": "true",
+            "120": "false",
+            "10": "false"
+        }
+    },
+    {
+        "question": "Quel est la definition de MCD en merise?",
+        "nbre_point": "5",
+        "choix": "texte",
+        "ReponseTexte": "Modele Conceptuel de Donnees"
+        
+    }
+]
